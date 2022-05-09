@@ -1,0 +1,2 @@
+# test tcp address port
+netcat -z -v -w 5 xxx.xx.xx.xx port
